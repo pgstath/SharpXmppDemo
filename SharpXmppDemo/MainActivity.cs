@@ -15,9 +15,9 @@ namespace SharpXmppDemo
         private MesssageActivityReceiver messageActivityReceiver;
         private Button button;
         private string message = " This is a test message no#";
-        private string password = "test1";
-        private string jid = "test1@xmpp.momentum.im";
-        private string messageRecipient = "test1@xmpp.momentum.im"; // Send a message to myself
+        private string password = "YourUserPassword";
+        private string jid = "YourJidNode@YouXmppDomain.com";
+        private string messageRecipient = "YourJidMessageRecipient@YouXmppDomain.com"; // Send a message to myself
 
         protected override void OnCreate(Bundle bundle)
         {
