@@ -8,3 +8,6 @@ A full blown demo project for connecting and maintaining a long running backgrou
 - Improved detection of broken TCP connections by Sharp.Xmpp
 
 Download and enjoy. 
+
+### Copyright
+2015-2016 Panagiotis Stathopoulos
