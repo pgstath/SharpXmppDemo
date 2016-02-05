@@ -7,7 +7,7 @@ A full blown demo project for connecting and maintaining a long running backgrou
 - [Wakelocks](http://developer.android.com/training/scheduling/wakelock.html), in [C#](https://github.com/pgstath/SharpXmppDemo/blob/master/SharpXmppDemo/Utils.cs), in order to make sure that long running tasks such as file transfers, or initial reconnections, are able to complete before the Android device sleeps.
 - Improved detection of broken TCP connections by Sharp.Xmpp
 
-Download and enjoy. 
+Download and enjoy. You can contact me at pgstath@gmail.com or through Github. 
 
 ### Copyright
 2015-2016 Panagiotis Stathopoulos
